@@ -1,9 +1,9 @@
 PRODUCT_PROPERTY_OVERRIDES += \
   persist.sys.somethingos.gms.BRAND=google\
-  persist.sys.somethingos.gms.DEVICE=komodo\
-  persist.sys.somethingos.gms.FINGERPRINT=google/komodo_beta/komodo:15/AP41.240726.010/12266677:user/release-keys\
+  persist.sys.somethingos.gms.DEVICE=oriole\
+  persist.sys.somethingos.gms.FINGERPRINT=google/oriole_beta/oriole:15/AP41.240823.009/12329489:user/release-keys\
   persist.sys.somethingos.gms.MANUFACTURER=Google\
-  persist.sys.somethingos.gms.MODEL=Pixel 9 Pro XL\
-  persist.sys.somethingos.gms.PRODUCT=komodo_beta\
-  persist.sys.somethingos.gms.SECURITY_PATCH=2024-08-05\
+  persist.sys.somethingos.gms.MODEL=Pixel 6\
+  persist.sys.somethingos.gms.PRODUCT=oriole_beta\
+  persist.sys.somethingos.gms.SECURITY_PATCH=2024-09-05\
   persist.sys.somethingos.gms.FIRST_API_LEVEL=35
